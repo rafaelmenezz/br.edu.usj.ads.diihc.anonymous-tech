@@ -15,6 +15,6 @@ Criar HTML e CSS do protótipo criado por outra equipe. Necessário utilizar o f
 
 ### Protótipo
 
-<img src="/prototipo/paulo.index.png" width="250" />  <img src="/prototipo/paulo-produtos.png" width="250" /> <img src="/prototipo/paulo-contato.png" width="250" /> 
+<img src="/prototipo/paulo.index.png" width="250" />  <img src="/prototipo/paulo-produtos.png" width="250" /> <img src="/prototipo/paulo-contato.png" width="280" /> 
 
 
