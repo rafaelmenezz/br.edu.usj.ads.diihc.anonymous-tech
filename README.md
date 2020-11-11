@@ -5,6 +5,6 @@ __Disciplina:__ Linguagem de Programação II
 __Turma:__ ADS 2019/2
 
 __Alunos:__ 
-- [Beatriz Amorim] (https://github.com/bia-amorim)
+- [Beatriz Amorim](https://github.com/bia-amorim)
 - Rafael da Silva Menezes
 
