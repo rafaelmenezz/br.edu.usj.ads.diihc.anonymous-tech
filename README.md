@@ -15,4 +15,4 @@ Criar HTML e CSS do protótipo criado por outra equipe. Necessário utilizar o f
 
 ### Protótipo
 
-![](/prototipo/paulo.index.png?w=100px "Home" )   
+![](/prototipo/paulo.index.png?width=50px "Home" )   
