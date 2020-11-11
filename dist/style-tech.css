@@ -1,0 +1,69 @@
+@media (max-width: 576px) {
+    .tech-navbar{
+        display: none;
+    }
+    
+
+ }
+ @media (min-width: 576px) {
+    .tech-form-navbar{
+        display: none;
+    }
+    .tech-nav-categorias{
+        display:none;
+    }
+
+ }
+ fieldset{
+    padding: 1rem;
+ }
+ legend{
+     font-size: 1.5em;
+ }
+
+ .tech-brand{
+    font-family: 'Oswald', sans-serif;
+    font-size: 2em;
+ }
+
+ .tech-btn-list > button{
+     padding: 0em;
+ }
+ .tech-btn-list-2 > button{
+    padding: 0.2em;
+}
+
+ .tech-h5-footer{
+     font-size: 0.9em;
+     text-align: center;
+ }
+
+.tech-ul-footer{
+    font-size: 0.8em;
+    padding: 0.5em;
+}
+.tech-ul-footer > li{
+    margin-top: 0.2em;
+    margin-bottom: 0.2em;
+}
+.tech-img-list > li{
+    border: none;  
+}
+
+.tech-card{
+    border:none;
+}
+
+.tech-card-h5{
+    font-size: 1em;
+    text-align: center;
+}
+
+.tech-nav{
+    justify-content: space-around;
+    display: flex;
+    width: 100%;
+}
+a.tech-nav-link{
+    color: #fff;
+}
