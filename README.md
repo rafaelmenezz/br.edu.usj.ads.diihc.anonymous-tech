@@ -11,7 +11,7 @@ __Alunos:__
 
 ### Especificações 
 
-Criar HTML e CSS do protótipo criado por outra equipe. Necessário utilizar o framework [bootstrap](https://getbootstrap.com/).
+Desenvolver HTML e CSS do protótipo criado por outra equipe. Necessário utilizar o framework [bootstrap](https://getbootstrap.com/).
 
 ### Protótipo
 
