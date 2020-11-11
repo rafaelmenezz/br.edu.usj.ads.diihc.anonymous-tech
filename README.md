@@ -1,7 +1,7 @@
 # Atividade de Prototipação 
 
 __Curso Analise e Desenvolvimento de Sistemas__  
-__Disciplina:__ Design da Informação e Interface Homem Computador 
+__Disciplina:__ Design da Informação e Interface Homem Computador   
 __Turma:__ ADS 2019/2
 
 __Alunos:__ 
